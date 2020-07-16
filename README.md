@@ -1,5 +1,7 @@
 <h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="Hi_there_Oi_Hola_Hallo__0"></a>Hi there, Oi, ¡Hola!, Hallo 👋🏾</h2>
-<p class="has-line-data" data-line-start="2" data-line-end="3">&lt;img src=&quot;<a href="https://iili.io/dK8Whl.png">https://iili.io/dK8Whl.png</a>&quot; width=“40%”&gt;</p>
+
+<img src="https://iili.io/dK8Whl.png" width="40%">
+
 <p class="has-line-data" data-line-start="5" data-line-end="10">👦🏾 Meu nome é Pedro Rastha.<br>
 🧑🏾‍💻 Sou desenvolvedor Back-End Jr.<br>
 🧑🏾‍🔬 Estudante de Engenharia Elétrica<br>
