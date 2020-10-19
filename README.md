@@ -1,6 +1,8 @@
 <h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="Hi_there_Oi_Hola_Hallo__0"></a>Hi there, Oi, ¡Hola!, Hallo 👋🏾</h2>
 
-<img src="https://iili.io/dK8Whl.png" width="40%">
+<p align="center">
+  <img src="https://iili.io/dK8Whl.png" width="40%">
+</p>
 
 <p class="has-line-data" data-line-start="5" data-line-end="10">👦🏾 Meu nome é Pedro Rastha.<br>
 🧑🏾‍💻 Sou desenvolvedor Back-End Jr.<br>
