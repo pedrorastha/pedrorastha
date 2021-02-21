@@ -7,7 +7,7 @@
 <p class="has-line-data" data-line-start="5" data-line-end="10">👦🏾 Meu nome é Pedro Rastha.<br>
 🧑🏾‍💻 Sou desenvolvedor Back-End Jr.<br>
 🧑🏾‍🔬 Estudante de Engenharia Elétrica<br>
-📚 Nesse momento estou estudando Python (Django e Flask) e C#.<br>
+📚 Nesse momento estou estudando ADVPL e SQL.<br>
 🕹️ Uma hunt no Tibia ou uma partida de CS:Go ?</p>
 <p class="has-line-data" data-line-start="11" data-line-end="13">Sempre fui apaixonado por desenvolver e hackear coisas. Por isso aqui vou documentar algumas das minhas criações e meus avanços no processo de aperfeiçoamento das minhas habilidades como desenvolvedor.<br>
 Já que a gente não pode tomar um café 😷, aqui alguns lugares onde você pode me encontrar. Para me dar alguma dica, sugestão ou quem sabe me indicar ou fazer uma proposta de trabalho.</p>
