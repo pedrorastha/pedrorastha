@@ -5,7 +5,8 @@
 </p>
 
 <p class="has-line-data" data-line-start="5" data-line-end="10">👦🏾 Meu nome é Pedro Rastha.<br>
-🧑🏾‍💻 Sou desenvolvedor Back-End Jr.<br>
+🧑🏾‍💻 Sou desenvolvedor.<br>
+🧑🏾‍💻 GIT Master
 🧑🏾‍🔬 Estudante de Engenharia Elétrica<br>
 📚 Nesse momento estou estudando ADVPL e SQL.<br>
 🕹️ Uma hunt no Tibia ou uma partida de CS:Go ?</p>
