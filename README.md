@@ -1,21 +1,69 @@
-# 💫 About Me:
-I am an experienced professional in data analysis, business intelligence, and project management. I have skills in developing indicators and solutions on technology platforms, especially on the Power Platform. Currently, I am involved in an ERP migration project where I have applied my knowledge in change management and implementation of new technologies.<br><br>In addition to my work, I have a passion for nature and believe that happiness is found in enjoying beautiful landscapes and interacting with the natural environment. Outside of work, I enjoy practicing outdoor activities such as hiking, climbing, and camping.
+# Pedro Rastha
+
+```python
+class DataAnalyticsEngineer:
+    def __init__(self):
+        self.name = "Pedro Rastha"
+        self.title = "Electrical Engineer"
+        self.role = "Specialist in Operational Performance, Business Intelligence & Data Analytics"
+        self.location = "Juiz de Fora, MG, Brasil"
+        self.experience_years = 7
+        self.languages = ["pt_BR", "en_US (Advanced)", "es_ES (Intermediate)", "de_DE (Basic)"]
+        self.certifications = ["Lean Six Sigma Black Belt", "Lean Six Sigma Green Belt"]
+    
+    def get_skills(self):
+        return {
+            "data_engineering": ["Python", "SQL", "PySpark", "ETL/ELT", "Delta Lake", "RESTful APIs"],
+            "business_intelligence": ["Power BI", "Looker", "QlikView", "Tableau", "DAX", "Power Query"],
+            "cloud_platforms": ["Azure", "AWS", "Databricks", "Synapse", "Docker", "PostgreSQL"],
+            "enterprise_systems": ["SAP PM", "SAP IBP", "S/4HANA", "Power Platform"],
+            "analytics_tools": ["Minitab", "SAS", "Google Analytics", "Pandas", "Numpy", "Scikit-learn"]
+        }
+    
+    def current_work(self):
+        return {
+            "consulting": "Business Analytics Consultant @ Oculta.AI - Data architecture, engineering and analytics implementation for Weboo Blockchain Marketing platform",
+            "primary": "Operational Performance Analyst @ MRS Logística - Managing R$200M+ railway contracts and KPIs"
+        }
+    
+    def specializations(self):
+        return ["KPI Management", "Contract Performance", "Process Automation", "Predictive Modeling", "Process Leadership"]
+
+pedro = DataAnalyticsEngineer()
+print(f"Currently: {pedro.current_work()}")
+```
+
+## 🚀 Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-1F4E79?style=flat&logo=minitab&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1F4E79?style=flat&logo=sas&logoColor=white)
+![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-Black%20Belt-success?style=flat)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedrorastha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrorastha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pedrorastha) 
+## 🎯 Current Focus
 
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pedrorastha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pedrorastha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorastha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 📊 **KPI Management**: Creating and monitoring operational KPIs for Operations and Maintenance Directorates
+- 💼 **Contract Performance**: Managing R$200M+ annual contracts with performance monitoring
+- 🔧 **Process Automation**: Developing automated solutions using Power Platform and Python
+- 📈 **Business Intelligence**: Building dashboards and executive reports for strategic decision-making
+- 🚆 **Railway Operations**: Optimizing logistics and maintenance processes through data analytics
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrorastha)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pedrorastha)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pedrorastha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <i>⚡ "Transforming data into strategic insights for operational excellence" ⚡</i>
+</div>
